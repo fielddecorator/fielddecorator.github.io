@@ -30,9 +30,6 @@
         button {
             position:absolute;
         }
-        .tmblr-iframe-compact .tmblr-iframe--unified-controls {
-            display:none !important;
-        }
         </style>
     </head>
     <body>
@@ -52,14 +49,6 @@
     
     </p>
     <img src="https://65.media.tumblr.com/c083547f1cd2097608bc69654b480e3a/tumblr_nm0sp6WT1b1urx8pjo2_75sq.png" style="top:30em; left:40em"/>
-
-<!--   This is a script to hide tumblr buttons, just in case
-<script>
-    function showhide(id) {
-       	var e = document.getElementById(id);
-       	e.style.display = (e.style.display == 'block') ? 'none' : 'block';
-     }
-</script>
 -->
 
 </body>
